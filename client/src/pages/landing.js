@@ -17,7 +17,7 @@ function Landing()
             The travel planner  is designed to make your travel planning experience seamless and stress-free. You can easily create and customize your travel itinerary, including flights, accommodations, activities, and more. Our app also offers recommendations for popular destinations and attractions.
 
             </p>
-            <button onClick={handleSubmit} className="text-xl text-white font-bold bg-lime-500 p-4 rounded-md">GET STARTED</button>
+            <button onClick={handleSubmit} className="sm:text-xl text-white sm:font-bold bg-lime-500 sm:p-4 p-2 rounded-md">GET STARTED</button>
         </div>
 
        </div>
